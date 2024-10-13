@@ -1,0 +1,11 @@
+/home/guilhermebins/Projects/ownnest_solanaapp/./solana-target/release/deps/libsha3-709a447e9b468005.rmeta: /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/home/guilhermebins/Projects/ownnest_solanaapp/./solana-target/release/deps/libsha3-709a447e9b468005.rlib: /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/home/guilhermebins/Projects/ownnest_solanaapp/./solana-target/release/deps/sha3-709a447e9b468005.d: /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs /home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs
+
+/home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/lib.rs:
+/home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/paddings.rs:
+/home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/macros.rs:
+/home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/reader.rs:
+/home/guilhermebins/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha3-0.9.1/src/state.rs:
