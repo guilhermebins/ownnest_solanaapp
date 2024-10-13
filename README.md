@@ -1,4 +1,4 @@
-# Design Project
+# Solana OwnNest Fashion
 
 ## Overview
 
