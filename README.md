@@ -87,8 +87,8 @@ A page designed to add creations. Each button serves a different type of creatio
 - **Signature Dishes**
 - **Furniture Design**
 - **Visual Arts**
-- **Marketplace (Valley)**
-- **Social Network**
+- **Valley (Marketplace)**
+- **Kingdom (Social Network)**
 
 [View Index Page](https://www.figma.com/design/iJNw4sCietYsA3pNpqhLt1/OwnNest-DEMO?node-id=0-1)
 
