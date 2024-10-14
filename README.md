@@ -79,7 +79,7 @@ Represents the account that stores design data.
 - `json_data`: `Vec<u8>` - A vector of bytes holding the JSON data representing the design.
 ownnest_solanaapp
 
-## OwnNest DEMO
+## OwnNest DEMO - Figma
 
 ### Index Page
 A page designed to add creations. Each button serves a different type of creation record:
